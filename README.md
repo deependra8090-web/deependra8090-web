@@ -67,7 +67,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Deep_9433?theme=dark&font=baloo&border_radius=10" />
+<img src="https://leetcard.jacoblin.cool/6mxcjCEbLI?theme=dark&font=baloo&border_radius=10" />
 </p>
 
 ---
