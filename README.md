@@ -15,7 +15,7 @@
 - 🔭 Building Full-Stack & AI-powered applications  
 - 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
 - 🌱 Currently learning **Advanced Backend**  
-- 📫 Reach me at: **anshulakgec@gmail.com**
+- 📫 Reach me at: **deependr9433@gmail.com**
 
 ---
 
@@ -25,7 +25,7 @@
 <a href="www.linkedin.com/in/deependra8090" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://leetcode.com/u/6mxcjCEbLI/" target="blank">
+<a href="https://leetcode.com/u/Deep_9433/" target="blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
 <a href="https://github.com/deependra8090-web" target="blank">
