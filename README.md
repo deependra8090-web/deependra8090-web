@@ -1,65 +1,95 @@
 <h1 align="center">Hi 👋, I'm Deependra Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+🚀 Full-Stack Developer | MERN | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deependra8090-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+AI+Powered+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech IT Student at **Ajay Kumar Garg Engineering College (2023–2027)**
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚡ Strong foundation in **DSA, OOPS, DBMS, OS & Computer Networks**
-- 🌱 Currently learning **Advanced Backend & System Design**
-- 🔥 Interested in **Scalable Systems, AI Integration & Real-Time Apps**
-- 🚀 Open to **Internships & Full-Time Opportunities**
+- 🔭 Building Full-Stack & AI-powered applications  
+- 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
+- 🌱 Currently learning **Advanced Backend**  
+- 📫 Reach me at: **anshulakgec@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/deependra8090" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
+<p align="center">
+<a href="www.linkedin.com/in/deependra8090" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-
-<a href="mailto:deependra9433@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" />
+<a href="https://leetcode.com/u/6mxcjCEbLI/" target="blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+<a href="https://github.com/deependra8090-web" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
 
-📫 Email: **deependra9433@gmail.com**
-
 ---
 
-# 💻 Tech Stack
+## 📄 Resume
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react,nodejs,express,mongodb,mysql,redux,tailwind,git,github,vscode" />
-</p>
-
-
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deependra8090-web&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependra8090-web&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deependra8090-web&theme=tokyonight&hide_border=true" />
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deependra8090-web&theme=tokyo-night" />
+<a href="https://drive.google.com/file/d/16UH6---qnAFqK0yIAOZC28I6mvjYNdw0/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Let's build scalable and impactful products together!</h3>
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,nextjs,tailwind,mongodb,git,github,firebase" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deependra8090-web&show_icons=true&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deependra8090-web&theme=radical&border_radius=10" height="160"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/2910_anshul?theme=dark&font=baloo&border_radius=10" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=deependra8090-web&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deependra8090-web&theme=react-dark" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+"Code. Build. Learn. Repeat."
+</p>
