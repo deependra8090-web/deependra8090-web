@@ -104,5 +104,5 @@
 ## ✨ Quote
 
 <p align="center">
-"Code. Build. Learn. Repeat."
+"Turning ideas into code, and code into impact"
 </p>
