@@ -12,10 +12,23 @@
 
 ## 🚀 About Me
 
-- 🔭 Building Full-Stack & AI-powered applications  
-- 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
-- 🌱 Currently learning **Advanced Backend**  
-- 📫 Reach me at: **deependr9433@gmail.com**
+👨‍💻 **Full-Stack Developer** passionate about building scalable, user-friendly web applications and AI-powered solutions.
+
+* 🔭 Currently building **Full-Stack & AI-powered applications**
+* 💻 Skilled in **React.js, Node.js, Express.js, MongoDB, MySQL & REST APIs**
+* 🌐 Experienced with the **MERN Stack** and modern web development
+* 🌱 Currently learning **Advanced Backend Development, System Design & Cloud Technologies**
+* 🧠 Solving **Data Structures & Algorithms** problems to strengthen problem-solving skills
+* 🤝 Open to collaborating on **Web Development, MERN Stack & AI projects**
+* 📫 Reach me at **[deependr9433@gmail.com](mailto:deependr9433@gmail.com)**
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, MySQL, PostgreSQL
+**Tools:** Git, GitHub, Postman, VS Code
+
 
 ---
 
