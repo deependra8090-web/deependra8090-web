@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React.js, JavaScript,Typescript, HTML, CSS, Tailwind CSS
+**Frontend:** React.js, JavaScript,TypeScript, HTML, CSS, Tailwind CSS
 <br>
 **Backend:** Node.js, Express.js, REST APIs
 <br>
@@ -54,7 +54,7 @@
 ## 📄 Resume
 
 <p align="center">
-<a href="https://drive.google.com/file/d/16UH6---qnAFqK0yIAOZC28I6mvjYNdw0/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1UqdVcYExZOJ-oo6I8CxgM9S-foVcS3gJ/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/View%20Resume-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 </p>
