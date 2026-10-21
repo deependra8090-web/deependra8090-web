@@ -54,7 +54,7 @@
 ## 📄 Resume
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1UqdVcYExZOJ-oo6I8CxgM9S-foVcS3gJ/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1naykEEzMlr79vsA4hp63C5Yz0TK58ZJ4/view?usp=sharing">
 <img src="https://img.shields.io/badge/View%20Resume-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 </p>
